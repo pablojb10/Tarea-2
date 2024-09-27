@@ -1,0 +1,22 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.c-r{
+    color: red;
+}
+p{
+    color: blue;
+}
+
+.color-rojo{
+    color: red;
+}
+
+.c-v{
+    color: green;
+}
+
+#violeta{
+    color: blueviolet;
+}
